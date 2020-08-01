@@ -1,0 +1,8 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <zone>
+      <short>cocount</short>
+      <description>coconut zone</description>
+      <source address="17.3.0.32/32"/>
+      <service name="coconut"/>
+      <service name="gitbucket"/>
+    </zone>
