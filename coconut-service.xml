@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <service>
+    	<short>coconut</short>
+    	<port port="54823" protocol="tcp"/>
+    	<port port="32833" protocol="udp"/>
+    </service>
