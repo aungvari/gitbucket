@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <service>
+            <short>gitbucket</short>
+            <port port="32887" protocol="tcp"/>
+    </service>
